@@ -1,4 +1,4 @@
-## Klasifikasi Gambar
+## Membuat Model NLP dengan TensorFlow
 Proyek Pertama : Membuat Model NLP dengan TensorFlow pada kelas Belajar Machine Learning untuk Pemula.
 
 ## Kriteria
