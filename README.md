@@ -1,5 +1,5 @@
 ## Membuat Model NLP dengan TensorFlow
-Proyek Pertama : Membuat Model NLP dengan TensorFlow pada kelas Belajar Machine Learning untuk Pemula.
+Proyek Pertama : Membuat Model NLP dengan TensorFlow pada kelas Belajar Pengembangan Machine Learning.
 
 ## Kriteria
 - Dataset yang akan dipakai bebas, namun minimal memiliki 1000 sampel.
